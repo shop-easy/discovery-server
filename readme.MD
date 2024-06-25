@@ -1,0 +1,3 @@
+### DISCOVERY SERVER
+
+Port 8761
